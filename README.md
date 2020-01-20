@@ -14,8 +14,8 @@ Basic Java project
 
 ##### Classes
 * Main
-* Student
-* StudentDAO
+* User
+* UserDAO
 
 The application capture various class fields such as:
 
@@ -23,6 +23,9 @@ The application capture various class fields such as:
 
 * Java 11
 * MySQL 
+* Java JDBC
+* Java Persistent API (JPA)
+* JUnit 5
 
 ##### Tools used:
 
