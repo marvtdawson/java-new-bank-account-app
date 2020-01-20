@@ -1,6 +1,6 @@
 # The Java Journey Series - "New Bank Account Application"
 
-![](src/resources/java_jouney_series_student_database_app.jpeg)
+![](src/resources/java_jouney_series_new_bank_account_app.jpeg)
 
 The Java Journey Series is my learning path to Java mastery.  It consist of a series of Java applications
 created using the Java programming language and various tools and frameworks.
